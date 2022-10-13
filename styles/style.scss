@@ -1,0 +1,330 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .img-1 {
+        width: 60px;
+        height: 60px;
+        margin-left: 150px;
+    }
+
+    #Nobel {
+        width: 1200px;
+        height: 13952px;
+
+        .color-blue-text {
+            color:#0098D6;
+        }
+
+        .productsHeaders {
+            font-family: 'Raleway';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 38px;
+            text-align: center;
+            letter-spacing: 0.03em;
+        }
+
+        .OurProductP {
+            font-family: 'Raleway';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 29px;
+            text-align: center;
+            letter-spacing: 0.03em;
+            
+            color: #686967;
+        }
+
+        header {
+
+            .logo1 {
+                position: absolute;
+                left: 0%;
+                right: 0%;
+                top: 0%;
+                bottom: 0%; 
+                width: 196px;
+                height: 35px;
+            }
+
+            #buttons1 {
+                position: absolute;
+                width: 62px;
+                height: 17px;
+                left: 911px;
+                top: 24px;
+
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                line-height: 15px;
+                display: flex;
+                align-items: center;
+                text-align: center;
+            }
+
+            #loginButton {
+                color: #0098D6;
+                border: none;
+                
+            }
+
+            #secondRow {
+                margin: 20px;
+                padding: 5px;
+                height: 47px;
+                width: 1200px;
+                left: 0px;
+                top: 67px;
+                border-radius: 0px;
+                background-color: #F5FAFE;
+
+                ul {
+                    padding: 10px;
+                    li { 
+                        display: inline;
+                        padding-right: 10px;
+
+                        a {
+                            color: #686967;
+                        }
+                    }
+                }
+            }
+        }
+        main {
+
+            #eclipses{
+                display: flex;
+                padding: 20px;
+            }
+
+            .eclipse {
+                height: 8px;
+                width: 8px;
+                left: 566px;
+                top: 518px;
+                border-radius: 0px;
+                background-color: #D1D6E3;
+                margin: 20px;
+            }
+
+            #box1 {
+                box-sizing: border-box;
+
+                position: absolute;
+                width: 415px;
+                height: 137px;
+                left: 60px;
+                top: 1124px;
+
+                background: #FFFFFF;
+                box-shadow: 0px 2px 21px rgba(0, 0, 0, 0.12);
+                border-radius: 4px;
+
+                #diamond1 {
+                    margin-top: 20px;
+                    margin-left: 12px;
+                    
+                    img {
+                        width: 100px;
+                        height: 100px;
+                    }
+                }
+            }
+
+            #getStarted {
+                position: absolute;
+                width: 168px;
+                height: 35px;
+                left: 95px;
+                top: 15px;
+
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 18px;
+                text-align: center;
+                letter-spacing: 0.03em;
+
+                color: rgba(0, 0, 0, 0.5);
+
+            }
+
+            #eclipse2 {
+                box-sizing: border-box;
+
+                position: absolute;
+                width: 66px;
+                height: 66px;
+                left: 315px;
+                top: 19px;
+                border-radius: 50%;
+
+                background: #FFFFFF;
+                border: 1px solid #0098D6;
+            }
+
+            #whiteList {
+                position: absolute;
+                width: 168px;
+                height: 31px;
+                left: 10px;
+                top: 17px;
+
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 12px;
+                line-height: 14px;
+                display: flex;
+                align-items: center;
+                text-align: center;
+
+color: #0098D6;
+            }
+
+            #createAccount {
+
+                position: absolute;
+                width: 144px;
+                height: 38px;
+                left: 112px;
+                top: 73px;
+
+                background: #0098D6;
+                border-radius: 2px;
+            }
+
+            .color-blue {
+                background-color: #0098D6;
+            }
+
+            .safe {
+                color: #0098D6;
+                margin-left: 50px;
+            }
+
+            #safeStable {
+                display: flexbox;
+                font-size: 30px;
+            }
+
+            #coinSafe  {
+                width: 701px;
+                height: 519px;
+                top: 74px;
+                left: 511px;
+            }
+            
+            .black {
+                color: #686967CC;
+            }
+        }
+    }
+
+    #prices {
+        height: 196px;
+        width: 1201px;
+        left: -1px;
+        top: 563px;
+        border-radius: 0px;
+    }
+
+    .bordered {
+        background-color: #EBF6FF;
+        margin: 5px;
+        padding-top: 10px;
+
+        .safe p {
+            font-family: Raleway;
+            font-size: 10px;
+            font-weight: 600;
+            line-height: 12px;
+            letter-spacing: 0.1em;
+            text-align: left;
+        }
+
+        .total {
+            text-transform: uppercase;
+        }
+
+        .blueBox {
+            margin-left: 35px;
+            margin-bottom: 20px;
+            height: 34px;
+            width: 183px;
+            left: 103px;
+            top: 617px;
+            border-radius: 2px;
+            background-color: #0098D6B5;
+            color: white;
+            text-align: center;
+            font: Roboto;
+            padding-top: 5px;
+        }
+
+        .input {
+            height: 46px;
+            width: 228px;
+            left: 364px;
+            top: 604px;
+            border-radius: 2px;
+            border: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .send {
+            background-color: #0098D6;
+            width: 228px;
+            height: 46px;
+            Top: 669px;
+            Left: 872px;
+            margin-top: 20px;
+            border-radius: 2px;
+            text-align: center;
+        }
+    }
+
+    #required {
+        height: 16px;
+        width: 56px;
+        left: 1044px;
+        top: 728px;
+        border-radius: nullpx;
+        color: #686967;
+        margin-top: 15px;
+        margin-left: 160px;
+    }
+
+    #ourProducts {
+        position: absolute;
+        width: 1200px;
+        height: 47px;
+        left: 100px;
+        top: 1310px;
+
+        h2 {
+            font-family: 'Raleway';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 36px;
+            line-height: 42px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+    }
+}
