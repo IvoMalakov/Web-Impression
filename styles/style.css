@@ -94,6 +94,13 @@ body #Nobel main .step-info {
   line-height: 21px;
   text-align: center;
 }
+body #Nobel main .step-info #diam-drop {
+  width: 200px;
+  height: 50px;
+  position: absolute;
+  top: 280px;
+  left: 930px;
+}
 body #Nobel main .step-title {
   display: block;
   width: 115px;
@@ -112,7 +119,7 @@ body #Nobel main #h62 {
 body #Nobel main #h63 {
   position: absolute;
   top: 255px;
-  left: 454px;
+  left: 475px;
 }
 body #Nobel main #h64 {
   position: absolute;
@@ -128,6 +135,53 @@ body #Nobel main #h66 {
   position: absolute;
   top: 255px;
   left: 945px;
+}
+body #Nobel main .coins #btc {
+  position: absolute;
+  top: 300px;
+  left: 282px;
+}
+body #Nobel main .coins #eth {
+  position: absolute;
+  top: 300px;
+  left: 339px;
+}
+body #Nobel main .coins #usdt {
+  position: absolute;
+  top: 300px;
+  left: 400px;
+}
+body #Nobel main .coins #tusdt {
+  position: absolute;
+  top: 330px;
+  left: 282px;
+}
+body #Nobel main .coins #usdc {
+  position: absolute;
+  top: 330px;
+  left: 345px;
+}
+body #Nobel main .coins #pax {
+  position: absolute;
+  top: 330px;
+  left: 407px;
+}
+body #Nobel main .coins #bnb {
+  position: absolute;
+  top: 355px;
+  left: 335px;
+}
+body #Nobel main .coins li {
+  text-transform: uppercase;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+body #Nobel main .coins li img {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: -2px;
 }
 body #Nobel main .product-test {
   font-family: "Raleway";
@@ -152,8 +206,8 @@ body #Nobel main #product5 {
 }
 body #Nobel main #product6 {
   position: absolute;
-  top: 300px;
-  left: 940px;
+  top: 340px;
+  left: 960px;
 }
 body #Nobel main #eclipses {
   display: flex;
