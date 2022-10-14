@@ -105,6 +105,88 @@ body {
         }
         main {
 
+            .step-info {
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 21px;
+                text-align: center;
+            } 
+
+            .step-title {
+                display: block;
+                width: 115px;
+                height: 22px;
+            }
+
+            #h61 {
+                position: absolute;
+                top: 255px;
+                left: 122px;
+            }
+
+            #h62 {
+                position: absolute;
+                top: 255px;
+                left: 292px;
+            }
+
+            #h63 {
+                position: absolute;
+                top: 255px;
+                left: 454px;
+            }
+
+            #h64 {
+                position: absolute;
+                top: 255px;
+                left: 618px;
+            }
+
+            #h65 {
+                position: absolute;
+                top: 255px;
+                left: 785px;
+            }
+
+            #h66 {
+                position: absolute;
+                top: 255px;
+                left: 945px;
+            }
+
+            .product-test {
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 11px;
+                line-height: 17px;
+                text-align: center;
+                color: rgba(104, 105, 103, 0.8);
+                width: 140px;
+                height: 50px;
+
+            }
+
+            #product4 {
+                position: absolute;
+                top: 300px;
+                left: 600px;
+            }
+
+            #product5 {
+                position: absolute;
+                top: 300px;
+                left: 775px;
+            }
+
+            #product6 {
+                position: absolute;
+                top: 300px;
+                left: 940px;
+            }
+
             #eclipses{
                 display: flex;
                 padding: 20px;
@@ -196,7 +278,7 @@ body {
                 align-items: center;
                 text-align: center;
 
-color: #0098D6;
+                color: #0098D6;
             }
 
             #createAccount {
@@ -429,5 +511,5 @@ color: #0098D6;
             letter-spacing: 0em;
             text-align: center;
         }
-    }
+    } 
 }

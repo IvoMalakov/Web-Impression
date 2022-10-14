@@ -86,6 +86,75 @@ body #Nobel header #secondRow ul li {
 body #Nobel header #secondRow ul li a {
   color: #686967;
 }
+body #Nobel main .step-info {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+}
+body #Nobel main .step-title {
+  display: block;
+  width: 115px;
+  height: 22px;
+}
+body #Nobel main #h61 {
+  position: absolute;
+  top: 255px;
+  left: 122px;
+}
+body #Nobel main #h62 {
+  position: absolute;
+  top: 255px;
+  left: 292px;
+}
+body #Nobel main #h63 {
+  position: absolute;
+  top: 255px;
+  left: 454px;
+}
+body #Nobel main #h64 {
+  position: absolute;
+  top: 255px;
+  left: 618px;
+}
+body #Nobel main #h65 {
+  position: absolute;
+  top: 255px;
+  left: 785px;
+}
+body #Nobel main #h66 {
+  position: absolute;
+  top: 255px;
+  left: 945px;
+}
+body #Nobel main .product-test {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 17px;
+  text-align: center;
+  color: rgba(104, 105, 103, 0.8);
+  width: 140px;
+  height: 50px;
+}
+body #Nobel main #product4 {
+  position: absolute;
+  top: 300px;
+  left: 600px;
+}
+body #Nobel main #product5 {
+  position: absolute;
+  top: 300px;
+  left: 775px;
+}
+body #Nobel main #product6 {
+  position: absolute;
+  top: 300px;
+  left: 940px;
+}
 body #Nobel main #eclipses {
   display: flex;
   padding: 20px;
