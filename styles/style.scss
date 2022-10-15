@@ -316,26 +316,26 @@ body {
 
             }
 
-            #eclipse2 {
+            .eclipse2 {
                 box-sizing: border-box;
 
-                position: absolute;
                 width: 66px;
                 height: 66px;
-                left: 315px;
-                top: 19px;
                 border-radius: 50%;
 
                 background: #FFFFFF;
                 border: 1px solid #0098D6;
             }
 
-            #whiteList {
+            #eclipse2_1 {
                 position: absolute;
+                left: 315px;
+                top: 19px;
+            }
+
+            .whiteList {
                 width: 168px;
                 height: 31px;
-                left: 10px;
-                top: 17px;
 
                 font-family: 'Raleway';
                 font-style: normal;
@@ -349,16 +349,43 @@ body {
                 color: #0098D6;
             }
 
-            #createAccount {
+            #whiteList1 {
+                position: absolute;
+                left: 10px;
+                top: 17px;
+            }
+
+            #createAccount1 {
 
                 position: absolute;
-                width: 144px;
-                height: 38px;
                 left: 112px;
                 top: 73px;
+            }
 
+            .createAccount {
                 background: #0098D6;
                 border-radius: 2px;
+                width: 144px;
+                height: 38px; 
+            }
+
+            #eclipse2_2 {
+                position: absolute;
+                top: 2534px;
+                left: 640px;
+            }
+
+            #whiteList2 {
+                position: absolute;
+                top: 15px;
+                left: 8px;
+            }
+
+            #createAccount2 {
+                position: absolute;
+                top: 2578px;
+                left: 523px;
+                z-index: -1;
             }
 
             .color-blue {
@@ -392,6 +419,23 @@ body {
             
             .black {
                 color: #686967CC;
+            }
+
+            .screen {
+                display: block;
+                margin: 0 auto;
+                max-width: 80%;
+            }
+
+            .img-screen {
+                width: 696px;
+                height: 449px;
+            }
+
+            #screen1 {
+                position: absolute;
+                top: 2120px;
+                left: 190px;
             }
         }
     }

@@ -259,23 +259,22 @@ body #Nobel main #getStarted {
   letter-spacing: 0.03em;
   color: rgba(0, 0, 0, 0.5);
 }
-body #Nobel main #eclipse2 {
+body #Nobel main .eclipse2 {
   box-sizing: border-box;
-  position: absolute;
   width: 66px;
   height: 66px;
-  left: 315px;
-  top: 19px;
   border-radius: 50%;
   background: #FFFFFF;
   border: 1px solid #0098D6;
 }
-body #Nobel main #whiteList {
+body #Nobel main #eclipse2_1 {
   position: absolute;
+  left: 315px;
+  top: 19px;
+}
+body #Nobel main .whiteList {
   width: 168px;
   height: 31px;
-  left: 10px;
-  top: 17px;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -286,14 +285,37 @@ body #Nobel main #whiteList {
   text-align: center;
   color: #0098D6;
 }
-body #Nobel main #createAccount {
+body #Nobel main #whiteList1 {
   position: absolute;
-  width: 144px;
-  height: 38px;
+  left: 10px;
+  top: 17px;
+}
+body #Nobel main #createAccount1 {
+  position: absolute;
   left: 112px;
   top: 73px;
+}
+body #Nobel main .createAccount {
   background: #0098D6;
   border-radius: 2px;
+  width: 144px;
+  height: 38px;
+}
+body #Nobel main #eclipse2_2 {
+  position: absolute;
+  top: 2534px;
+  left: 640px;
+}
+body #Nobel main #whiteList2 {
+  position: absolute;
+  top: 15px;
+  left: 8px;
+}
+body #Nobel main #createAccount2 {
+  position: absolute;
+  top: 2578px;
+  left: 523px;
+  z-index: -1;
 }
 body #Nobel main .color-blue {
   background-color: #0098D6;
@@ -321,6 +343,20 @@ body #Nobel main #coinSafe #coin-safe-pic {
 }
 body #Nobel main .black {
   color: rgba(104, 105, 103, 0.8);
+}
+body #Nobel main .screen {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
+body #Nobel main .img-screen {
+  width: 696px;
+  height: 449px;
+}
+body #Nobel main #screen1 {
+  position: absolute;
+  top: 2120px;
+  left: 190px;
 }
 body #prices {
   height: 196px;
