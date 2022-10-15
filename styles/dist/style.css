@@ -391,6 +391,69 @@ body #Nobel main #what-is-diamondcoin {
   top: 2700px;
   left: 0px;
 }
+body #Nobel main .our-vault {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 29px;
+  letter-spacing: 0.02em;
+}
+body #Nobel main #our-vault {
+  position: absolute;
+  top: 3500px;
+  left: 255px;
+}
+body #Nobel main #h2-our-vault {
+  position: absolute;
+  top: -53px;
+  left: 159px;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  width: 427px;
+  height: 43px;
+}
+body #Nobel main .product-parr {
+  color: #686967;
+  width: 480px;
+  height: 322px;
+}
+body #Nobel main #parr1 {
+  position: absolute;
+  top: 57px;
+  left: -129px;
+}
+body #Nobel main #parr2 {
+  position: absolute;
+  left: -129px;
+  top: 200px;
+}
+body #Nobel main #parr3 {
+  width: 731px;
+  height: 180px;
+  position: absolute;
+  top: 400px;
+  left: -40px;
+}
+body #Nobel main #free-trade-pic {
+  width: 496px;
+  height: 272px;
+  position: absolute;
+  top: 20px;
+  left: 400px;
+  mix-blend-mode: darken;
+  opacity: 100%;
+}
+body #Nobel main #proofButton {
+  width: 231px;
+  height: 43px;
+  border-radius: 3px;
+  background-color: #0098D6;
+  position: absolute;
+  top: 545px;
+  left: 218px;
+}
 body #prices {
   height: 196px;
   width: 1201px;
