@@ -611,6 +611,66 @@ body #Nobel main #big-icons-pics #liquidity-div {
   top: -47px;
   left: 1510px;
 }
+body #Nobel main .the-platform {
+  width: 2100px;
+  height: 637px;
+}
+body #Nobel main .the-platform h2, body #Nobel main .the-platform h5, body #Nobel main .the-platform p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+}
+body #Nobel main .the-platform h5 {
+  width: 105px;
+  height: 12px;
+  text-transform: uppercase;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.1em;
+}
+body #Nobel main .the-platform h2 {
+  width: 219px;
+  height: 43px;
+  font-size: 36px;
+  line-height: 42px;
+}
+body #Nobel main .the-platform p {
+  width: 413px;
+  height: 202px;
+  font-size: 15px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  color: #686967;
+}
+body #Nobel main .the-platform img {
+  width: 400px;
+  height: 400px;
+}
+body #Nobel main .the-platform #img-platform {
+  position: absolute;
+  left: 420px;
+  top: 0px;
+}
+body #Nobel main .the-platform #h5-platform {
+  position: absolute;
+  left: 1000px;
+  top: 10px;
+}
+body #Nobel main .the-platform #h2-platform {
+  position: absolute;
+  left: 1000px;
+  top: 40px;
+}
+body #Nobel main .the-platform #p-platform {
+  position: absolute;
+  left: 1000px;
+  top: 100px;
+}
+body #Nobel main #the-platform {
+  position: absolute;
+  top: 5800px;
+  left: 10px;
+}
 body #prices {
   height: 196px;
   width: 1201px;
