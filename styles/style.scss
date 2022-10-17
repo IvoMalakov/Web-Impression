@@ -1182,6 +1182,73 @@ body {
                 line-height: 42px;
                 text-align: center;
             }
+
+            .our-partners {
+                position: absolute;
+                left: 0;
+                top: 7950px;
+
+            }
+
+            #our-partners {
+                width: 1201px;
+                height: 408px;
+                background: #F1F2F2;
+
+                #h2-partners {
+                    position: absolute;
+                    top: 40px;
+                    left: 300px;
+                }
+
+                .p-partners {
+                    width: 792px;
+                    height: 80px;
+
+                    font-family: 'Raleway';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 15px;
+                    line-height: 29px;
+                    text-align: center;
+                    letter-spacing: 0.03em;
+                    color: #686967;
+                }
+
+                #p-partners {
+                    position: absolute;
+                    top: 112px;
+                    left: 130px;
+                }
+
+                #partners-icons {
+                    position: absolute;
+                    top: 228px;
+                    left: 50px;
+                }
+
+                .partners-logos {
+                    img {
+                        width: 60px;
+                        height: 60px;
+                    }
+
+                    li {
+                        padding: 30px;
+                    }
+                }
+            }
+
+            .h2-down-sections {
+                width: 427px;
+                height: 43px;
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 36px;
+                line-height: 42px;
+                text-align: center;
+            }
         }
     }
 
