@@ -1130,6 +1130,58 @@ body {
                 top: 50px;
                 left: 420px;
             }
+
+            .about-us {
+                width: 890px;
+                height: 950px;
+                margin-top: 30px;
+            }
+
+            #about-us {
+                position: absolute;
+                top: 7187px;
+                left: 10px;
+
+                p {
+                    margin-bottom: 35px;
+                }
+            }
+
+            #h2-about-us {
+                position: absolute;
+                top: -70px;
+                left: 200px;
+            }
+
+            .text-about {
+                width: 890px;
+                height: 705px;
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 29px;
+                text-align: center;
+                letter-spacing: 0.03em;
+                color: #686967;
+            }
+
+            #text-about1 {
+                position: absolute;
+                top: 20px;
+                left: 10px;
+            }
+
+            .h2-about {
+                width: 427px;
+                height: 43px;
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 36px;
+                line-height: 42px;
+                text-align: center;
+            }
         }
     }
 
