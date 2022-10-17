@@ -51,8 +51,8 @@ body #Nobel header #buttons1 {
   position: absolute;
   width: 62px;
   height: 17px;
-  left: 911px;
-  top: 24px;
+  left: 990px;
+  top: 64px;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -287,7 +287,7 @@ body #Nobel main .whiteList {
 }
 body #Nobel main #whiteList1 {
   position: absolute;
-  left: 10px;
+  left: 6px;
   top: 17px;
 }
 body #Nobel main #createAccount1 {
@@ -671,6 +671,275 @@ body #Nobel main #the-platform {
   top: 5800px;
   left: 10px;
 }
+body #Nobel main .infrastructure {
+  width: 1870.26px;
+  height: 881px;
+  background: rgba(214, 234, 253, 0.25);
+}
+body #Nobel main #infrastructure {
+  position: absolute;
+  top: 6199px;
+  left: 0px;
+}
+body #Nobel main #infrastructure h2 {
+  width: 697px;
+  height: 43px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+}
+body #Nobel main #infrastructure #circle1 {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+body #Nobel main #infrastructure .infrastructure-eclipse {
+  width: 149px;
+  height: 149px;
+  border-radius: 50%;
+}
+body #Nobel main #infrastructure #circle1 {
+  background: rgba(104, 105, 103, 0.45);
+  position: absolute;
+  top: 140px;
+  left: 100px;
+}
+body #Nobel main #infrastructure #circle2 {
+  background: rgba(0, 152, 214, 0.1);
+  position: absolute;
+  top: 600px;
+  left: 1200px;
+}
+body #Nobel main #infrastructure #circle3 {
+  border: 1px solid #2D9CDB;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  position: absolute;
+  left: 100px;
+  top: 600px;
+}
+body #Nobel main #infrastructure .circle-pic {
+  width: 60px;
+  height: 60px;
+}
+body #Nobel main #infrastructure #circle-pic1 {
+  position: absolute;
+  top: 38px;
+  left: 44px;
+}
+body #Nobel main #infrastructure .p-circle {
+  font-family: "Raleway";
+  font-style: normal;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  align-items: center;
+}
+body #Nobel main #infrastructure #p-circle1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 24px;
+  color: #FFFFFF;
+  position: absolute;
+  top: 100px;
+  left: 25px;
+}
+body #Nobel main #infrastructure #h6-circle2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  width: 134.53px;
+  height: 35.59px;
+  position: absolute;
+  top: 22px;
+  left: 9px;
+}
+body #Nobel main #infrastructure #p-circle2 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  width: 135px;
+  height: 88px;
+  padding: 2px;
+  position: absolute;
+  top: 60px;
+  left: 8px;
+}
+body #Nobel main #infrastructure #circle-pic2 {
+  position: absolute;
+  top: 9px;
+  left: 48px;
+}
+body #Nobel main #infrastructure #h6-circle3 {
+  text-transform: uppercase;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  position: absolute;
+  top: 75px;
+  left: 10px;
+}
+body #Nobel main #infrastructure .stone-button {
+  width: 195px;
+  height: 57px;
+  border-radius: 4px;
+  background: #BBBBBB;
+  box-shadow: 0px 5px 50px #F3F5FA;
+  border: none;
+}
+body #Nobel main #infrastructure #stone-button1 {
+  position: absolute;
+  top: 200px;
+  left: 650px;
+}
+body #Nobel main #infrastructure #blue-diamond-pic {
+  width: 149px;
+  height: 149px;
+  position: absolute;
+  top: 150px;
+  left: 1200px;
+}
+body #Nobel main #infrastructure #h6-blue-diamond {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  position: absolute;
+  top: 320px;
+  left: 1240px;
+}
+body #Nobel main #infrastructure .blue-box {
+  width: 285px;
+  height: 271px;
+  background: #0098D6;
+  box-shadow: 0px 5px 50px rgba(214, 216, 220, 0.6);
+  border-radius: 4px;
+}
+body #Nobel main #infrastructure #blue-box1 {
+  position: absolute;
+  top: 549px;
+  left: 631px;
+}
+body #Nobel main #infrastructure #blue-box1 .blue-box-text {
+  color: #FFFFFF;
+  letter-spacing: 0.03em;
+  font-style: normal;
+}
+body #Nobel main #infrastructure #blue-box1 #h4-blue-box {
+  text-transform: uppercase;
+  font-family: "Raleway";
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  width: 106px;
+  height: 18px;
+  position: absolute;
+  left: 15px;
+  top: 34px;
+}
+body #Nobel main #infrastructure #blue-box1 .white-box {
+  width: 222px;
+  height: 44px;
+  background: #FFFFFF;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box1 {
+  position: absolute;
+  left: 20px;
+  top: 100px;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box1 li {
+  margin-right: 2px;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box1 .white-coins {
+  display: block;
+  padding: 10px 20px;
+  text-align: center;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box1 .white-coins img {
+  width: 19.96px;
+  height: 19.96px;
+}
+body #Nobel main #infrastructure #blue-box1 .white-box-pic {
+  width: 139px;
+  height: 56px;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box-pic1 {
+  position: absolute;
+  top: -6px;
+  left: 28px;
+}
+body #Nobel main #infrastructure #blue-box1 #h61-blue-box {
+  position: absolute;
+  left: 20px;
+  top: 70px;
+}
+body #Nobel main #infrastructure #blue-box1 #h62-blue-box {
+  position: absolute;
+  left: 20px;
+  top: 170px;
+}
+body #Nobel main #infrastructure #blue-box1 #white-box2 {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+body #Nobel main #infrastructure #blue-box1 #h3-blue-box {
+  font-size: 26px;
+  position: absolute;
+  top: 5px;
+  left: 15px;
+}
+body #Nobel main #infrastructure #blue-box1 .h6-blue-box {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  height: 19px;
+}
+body #Nobel main #infrastructure .arrow {
+  width: 40.3px;
+  height: 78.9px;
+}
+body #Nobel main #infrastructure #arrow1 {
+  rotate: -90deg;
+  position: absolute;
+  top: 180px;
+  left: 430px;
+}
+body #Nobel main #infrastructure #arrow2 {
+  rotate: -90deg;
+  position: absolute;
+  top: 180px;
+  left: 1020px;
+}
+body #Nobel main #infrastructure #arrow3 {
+  position: absolute;
+  left: 1250px;
+  top: 430px;
+}
+body #Nobel main #infrastructure #arrow4 {
+  rotate: 90deg;
+  position: absolute;
+  left: 1020px;
+  top: 650px;
+}
+body #Nobel main #infrastructure #arrow5 {
+  rotate: 90deg;
+  position: absolute;
+  left: 430px;
+  top: 650px;
+}
+body #Nobel main #h2-infrastructure {
+  position: absolute;
+  top: 50px;
+  left: 420px;
+}
 body #prices {
   height: 196px;
   width: 1201px;
@@ -827,7 +1096,6 @@ body #the-process .blueLine {
 }
 body #the-process .insideBigEclpse {
   margin: 20px 10px;
-  font-family: Raleway;
   font-size: 18px;
   font-weight: 500;
   line-height: 27px;
