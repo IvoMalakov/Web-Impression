@@ -1126,6 +1126,71 @@ body #Nobel main .h2-down-sections {
   line-height: 42px;
   text-align: center;
 }
+body #Nobel main .our-team {
+  width: 1401px;
+  height: 1650px;
+  background: rgba(214, 234, 253, 0.25);
+}
+body #Nobel main #our-team {
+  position: absolute;
+  top: 9000px;
+  left: 0px;
+}
+body #Nobel main #our-team #h2-our-team {
+  position: absolute;
+  top: 50px;
+  left: 535px;
+}
+body #Nobel main #our-team .h3-our-team {
+  width: 704px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #686967;
+}
+body #Nobel main #our-team #h31-our-team {
+  position: absolute;
+  left: 400px;
+  top: 130px;
+}
+body #Nobel main #our-team #team-members {
+  position: absolute;
+  top: 200px;
+  left: 250px;
+}
+body #Nobel main #our-team .member-pic {
+  width: 152px;
+  height: 153px;
+  border-radius: 50%;
+}
+body #Nobel main #our-team .p-picture {
+  margin-top: 10px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #686967;
+}
+body #Nobel main #our-team .picture-info {
+  width: 224px;
+  height: 94px;
+  position: absolute;
+  left: -12px;
+}
+body #Nobel main #our-team .not-first-row {
+  margin-top: 200px;
+}
+body #Nobel .small-letters {
+  text-transform: lowercase;
+}
 body #prices {
   height: 196px;
   width: 1201px;
