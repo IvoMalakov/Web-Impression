@@ -47,7 +47,7 @@ body {
 
         header {
 
-            .logo1 {
+            .logo {
                 position: absolute;
                 left: 0%;
                 right: 0%;
@@ -1140,7 +1140,7 @@ body {
             #about-us {
                 position: absolute;
                 top: 7187px;
-                left: 10px;
+                left: 75px;
 
                 p {
                     margin-bottom: 35px;
@@ -1426,6 +1426,83 @@ body {
                 }
             }
         }
+
+        footer {
+            .footer-section {
+                width: 1400px;
+                height: 48px;
+            }
+
+            #upper-footer {
+                position: absolute;
+                left: 0px;
+                top: 10700px;
+
+                #logo2 {
+                    margin-left: 75px;
+                }
+
+                #footer-icons1 {
+                    position: absolute;
+                    left: 800px;
+                    top: 50px;
+                }
+
+                .footer-social {
+                    display: inline;
+
+                    li {
+                        display: inline;
+                        border: none;
+                    }
+                }
+
+                .footer-img {
+                    width: 16.51px;
+                    height: 13.78px;
+                }
+            }
+
+            .bottom-footer {
+                width: 1400px;
+                height: 48px;
+                background: linear-gradient(180deg, #F5FAFE 0%, #F6F9FF 100%);
+            }
+
+            #bottom-footer {
+                position: absolute;
+                left: 0px;
+                top: 10850px;
+
+                .p-footer {
+                    width: 169px;
+                    height: 30px;
+
+                    font-family: 'Quicksand';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 12px;
+                    line-height: 15px;
+                    display: flex;
+                    align-items: center;
+                    text-align: center;
+                    text-transform: capitalize;
+                    color: #686967;
+                    opacity: 0.7;
+                }
+
+                #p1-footer {
+                    margin: 10px auto auto 75px;
+                }
+
+                #p2-footer {
+                    position: absolute;
+                    top: 10px;
+                    left: 800px;
+                }
+            }
+        }
+
         .small-letters {
             text-transform: lowercase;
         }

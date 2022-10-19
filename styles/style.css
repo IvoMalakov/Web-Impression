@@ -38,7 +38,7 @@ body #Nobel .OurProductP {
   letter-spacing: 0.03em;
   color: #686967;
 }
-body #Nobel header .logo1 {
+body #Nobel header .logo {
   position: absolute;
   left: 0%;
   right: 0%;
@@ -948,7 +948,7 @@ body #Nobel main .about-us {
 body #Nobel main #about-us {
   position: absolute;
   top: 7187px;
-  left: 10px;
+  left: 75px;
 }
 body #Nobel main #about-us p {
   margin-bottom: 35px;
@@ -1187,6 +1187,67 @@ body #Nobel main #our-team .picture-info {
 }
 body #Nobel main #our-team .not-first-row {
   margin-top: 200px;
+}
+body #Nobel footer .footer-section {
+  width: 1400px;
+  height: 48px;
+}
+body #Nobel footer #upper-footer {
+  position: absolute;
+  left: 0px;
+  top: 10700px;
+}
+body #Nobel footer #upper-footer #logo2 {
+  margin-left: 75px;
+}
+body #Nobel footer #upper-footer #footer-icons1 {
+  position: absolute;
+  left: 800px;
+  top: 50px;
+}
+body #Nobel footer #upper-footer .footer-social {
+  display: inline;
+}
+body #Nobel footer #upper-footer .footer-social li {
+  display: inline;
+  border: none;
+}
+body #Nobel footer #upper-footer .footer-img {
+  width: 16.51px;
+  height: 13.78px;
+}
+body #Nobel footer .bottom-footer {
+  width: 1400px;
+  height: 48px;
+  background: linear-gradient(180deg, #F5FAFE 0%, #F6F9FF 100%);
+}
+body #Nobel footer #bottom-footer {
+  position: absolute;
+  left: 0px;
+  top: 10850px;
+}
+body #Nobel footer #bottom-footer .p-footer {
+  width: 169px;
+  height: 30px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #686967;
+  opacity: 0.7;
+}
+body #Nobel footer #bottom-footer #p1-footer {
+  margin: 10px auto auto 75px;
+}
+body #Nobel footer #bottom-footer #p2-footer {
+  position: absolute;
+  top: 10px;
+  left: 800px;
 }
 body #Nobel .small-letters {
   text-transform: lowercase;
