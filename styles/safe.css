@@ -1,12 +1,12 @@
-#Safe header #logoSafe {
+#Safe header #logoSafe, #Calculator header #logoSafe {
   width: 196px;
   height: 35px;
 }
-#Safe header .safeButtons {
+#Safe header .safeButtons, #Calculator header .safeButtons {
   width: 190px;
   height: 33px;
 }
-#Safe header #safeButtons {
+#Safe header #safeButtons, #Calculator header #safeButtons {
   position: absolute;
   top: 16px;
   left: 911px;
@@ -20,32 +20,32 @@
   align-items: center;
   text-align: center;
 }
-#Safe header #safeButtons #loginSafeButton {
+#Safe header #safeButtons #loginSafeButton, #Calculator header #safeButtons #loginSafeButton {
   border: none;
   color: #0098D6;
 }
-#Safe header .navigation-menu {
+#Safe header .navigation-menu, #Calculator header .navigation-menu {
   width: 1200px;
   height: 47px;
   background: #F5FAFE;
 }
-#Safe header #navigation-menu {
+#Safe header #navigation-menu, #Calculator header #navigation-menu {
   position: absolute;
   left: 0px;
   top: 67px;
 }
-#Safe header #navigation-menu ul {
+#Safe header #navigation-menu ul, #Calculator header #navigation-menu ul {
   display: flex;
   padding: 10px;
   margin-top: 7px;
   align-items: center;
   margin-left: 20px;
 }
-#Safe header #navigation-menu ul li {
+#Safe header #navigation-menu ul li, #Calculator header #navigation-menu ul li {
   display: flex;
   padding-right: 30px;
 }
-#Safe header #navigation-menu ul li a {
+#Safe header #navigation-menu ul li a, #Calculator header #navigation-menu ul li a {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 600;
@@ -57,14 +57,14 @@
   color: #686967;
   text-shadow: 0px 0px 5px #E6E6E6;
 }
-#Safe header #navigation-menu ul #third-nav {
+#Safe header #navigation-menu ul #third-nav, #Calculator header #navigation-menu ul #third-nav {
   padding-left: 70px;
 }
-#Safe main .safe-info {
+#Safe main .safe-info, #Calculator main .safe-info {
   width: 539px;
   height: 184px;
 }
-#Safe main .p-safe-info {
+#Safe main .p-safe-info, #Calculator main .p-safe-info {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 400;
@@ -73,26 +73,26 @@
   letter-spacing: 0.01em;
   color: #686967;
 }
-#Safe main #safe-info {
+#Safe main #safe-info, #Calculator main #safe-info {
   position: absolute;
   left: 159px;
   top: 181px;
 }
-#Safe main .coin-safe {
+#Safe main .coin-safe, #Calculator main .coin-safe {
   width: 85.38px;
   height: 85.38px;
 }
-#Safe main #coin1 {
+#Safe main #coin1, #Calculator main #coin1 {
   position: absolute;
   left: 158.31px;
   top: 378.31px;
 }
-#Safe main #p1-sir-Cristopher-info {
+#Safe main #p1-sir-Cristopher-info, #Calculator main #p1-sir-Cristopher-info {
   position: absolute;
   top: 402px;
   left: 255px;
 }
-#Safe main .p-sir-Cristopher-info {
+#Safe main .p-sir-Cristopher-info, #Calculator main .p-sir-Cristopher-info {
   width: 270px;
   height: 49px;
   font-family: "Raleway";
@@ -103,7 +103,7 @@
   letter-spacing: 0.03em;
   color: #686967;
 }
-#Safe main #sir-Christopher-photo {
+#Safe main #sir-Christopher-photo, #Calculator main #sir-Christopher-photo {
   position: absolute;
   left: 95.69%;
   right: -57.23%;
@@ -111,40 +111,40 @@
   bottom: 0%;
   transform: matrix(-1, 0, 0, 1, 0, 0);
 }
-#Safe main .sir-Christopher-img {
+#Safe main .sir-Christopher-img, #Calculator main .sir-Christopher-img {
   width: 800px;
   height: 445px;
 }
-#Safe main #sir-Christopher-img1 {
+#Safe main #sir-Christopher-img1, #Calculator main #sir-Christopher-img1 {
   position: absolute;
   top: 150px;
   left: 550px;
   z-index: -1;
 }
-#Safe main .little-eclipses {
+#Safe main .little-eclipses, #Calculator main .little-eclipses {
   width: 731px;
   height: 411px;
 }
-#Safe main #litlle-eclipses {
+#Safe main #litlle-eclipses, #Calculator main #litlle-eclipses {
   position: absolute;
   top: 546px;
   left: 617px;
 }
-#Safe main #litlle-eclipses .safe-eclipse-ul {
+#Safe main #litlle-eclipses .safe-eclipse-ul, #Calculator main #litlle-eclipses .safe-eclipse-ul {
   display: flex;
   padding: 20px;
   margin-bottom: 10px;
 }
-#Safe main #litlle-eclipses .safe-eclipse-ul li {
+#Safe main #litlle-eclipses .safe-eclipse-ul li, #Calculator main #litlle-eclipses .safe-eclipse-ul li {
   display: flex;
   margin-left: 10px;
 }
-#Safe main .safe-eclipse {
+#Safe main .safe-eclipse, #Calculator main .safe-eclipse {
   width: 8.08px;
   height: 8px;
   background: #D1D6E3;
   border-radius: 50%;
 }
-#Safe main #safe-eclipse2 {
+#Safe main #safe-eclipse2, #Calculator main #safe-eclipse2 {
   background: #0098D6;
 }/*# sourceMappingURL=safe.css.map */

@@ -1,0 +1,236 @@
+main {
+    .calculator-main-section {
+        width: 1201px;
+        height: 451px;
+        background: linear-gradient(180deg, rgba(214, 234, 253, 0.47) 0%, rgba(214, 234, 253, 0.24) 100%);
+    }
+
+    #calculator-main-section {
+        position: absolute;
+        left: 0px;
+        top: 113px;
+    }
+
+    #calculator-diam-coin {
+        width: 232px;
+        height: 101px;
+
+        position: absolute;
+        left: 174px;
+        top: 215px;
+    }
+
+    .h2-calculator-diam-coin {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 46px;
+        line-height: 50px;
+        letter-spacing: 0.03em;
+
+        color: #0098D6;
+    }
+
+    #calculator-convert-div1 {
+        width: 303px;
+        height: 78px;
+        
+        position: absolute;
+        left: 174px;
+        top: 346px;
+    }
+
+    .p-calculator-convert {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 29px;
+        letter-spacing: 0.03em;
+
+        color: rgba(104, 105, 103, 0.8);
+    }
+
+    .calculator-convertor {
+        width: 554px;
+        height: 294px;
+
+        border-radius: 2px;
+        background: rgba(0, 152, 214, 0.06);
+    }
+
+    #calculator-convertor {
+        position: absolute;
+        left: 499px;
+        top: 181px;
+    }
+
+    .h3-calculator-convertor {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 36px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+
+        color: #0098D6;
+    }
+
+    #h31-calculator-convertor {
+       position: absolute;
+       top: 33px;
+       left: 177px; 
+   }
+
+   .p-second-calculator-convertor {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 18px;
+        letter-spacing: 0.03em;
+        color: #606163;
+   }
+
+   #p1-calculator-convertor {
+        position: absolute;
+        width: 97px;
+        height: 19px;
+        left: 68px;
+        top: 103px;
+   }
+
+   .calculator-coins {
+        width: 297px;
+        height: 27px;
+   }
+
+   .calculator-coins-ul {
+        display: inline;
+
+        li {
+            display: inline;
+            margin-left: 15px;
+        }
+   }
+
+   #calculator-coins1 {
+        position: absolute;
+        top: 97px;
+        left: 188px;
+
+        img {
+            width: 19px;
+            height: 19px;
+        }
+   }
+
+   .calculator-input {
+        width: 231px;
+        height: 42px;
+        box-sizing: border-box;
+        background: #F1F5FF;
+        border-radius: 4px;
+        border: 1px solid #D6EAFD;
+   }
+
+   #calculator-input-1 {
+        position: absolute;
+        left: 31px;
+        top: 145px;
+   }
+   
+   #calculator-input-2 {
+    position: absolute;
+    left: 291px;
+    top: 145px;
+    }
+
+    input::placeholder {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 15px;
+        color: #949699;
+    }
+
+    .calculator-inside-input {
+        width: 29px;
+        height: 22px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        color: #606163;
+    }
+
+    #calculator-inside-input-1 {
+        position: absolute;
+        left: 220px;
+        top: 155px;
+    }
+
+    #calculator-inside-input-2 {
+        position: absolute;
+        left: 480px;
+        top: 155px;
+    }
+
+    .convert-button {
+        width: 491px;
+        height: 42px;
+        border-radius: 4px;
+        background-color: #0098D6;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    #convert-button-1 {
+        position: absolute;
+        left: 31px;
+        top: 211px;
+    }
+
+    .calculator-litlle-eclipses {
+        width: 68px;
+        height: 8px;
+    }
+
+    #calculator-litlle-eclipses {
+        position: absolute;
+        left: 566px;
+        top: 476px;
+        
+        ul > li {
+            list-style-type: none;
+            margin-right: 12px;
+        }
+    }
+
+    .calculator-eclipse-ul {
+        display: flex;
+        padding-right: 10px;
+    }
+
+    .calculator-eclipse {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        margin-right: 10px;
+        display: flex;
+        background: #D1D6E3;
+    }
+
+    #calculator-eclipse4 {
+        background: #0098D6;
+    }
+}
