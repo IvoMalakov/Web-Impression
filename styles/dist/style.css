@@ -76,12 +76,10 @@ body #Nobel header #secondRow {
   border-radius: 0px;
   background-color: #F5FAFE;
 }
-body #Nobel header #secondRow ul {
-  padding: 10px;
-}
 body #Nobel header #secondRow ul li {
-  display: inline;
-  padding-right: 10px;
+  display: flex;
+  width: 30px;
+  height: 11px;
 }
 body #Nobel header #secondRow ul li a {
   color: #686967;
